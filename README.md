@@ -47,7 +47,7 @@
     </a>
 </div>
 
-<summary>:zap: Recent GitHub Activity</summary>
+###:zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update_end-->
 
