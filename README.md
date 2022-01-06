@@ -42,9 +42,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="JohnPDuong's GitHub Stats" src="https://github-readme-stats.JohnPDuong.vercel.app/api?username=JohnPDuong&show_icons=true&hide_border=true" />
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPDuong)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/john-duong-0bbb621b7/
