@@ -44,7 +44,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPDuong)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [linkedin]: https://www.linkedin.com/in/john-duong-0bbb621b7/
