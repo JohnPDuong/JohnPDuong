@@ -30,8 +30,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
