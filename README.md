@@ -47,7 +47,7 @@
     </a>
 </div>
 
-###:zap: Recent GitHub Activity
+### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [JohnPDuong/github-readme-stats](https://github.com/JohnPDuong/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 2. 📔 Created new repository [JohnPDuong/JohnPDuong](https://github.com/JohnPDuong/JohnPDuong)
