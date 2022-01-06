@@ -46,8 +46,6 @@
     <img alt="Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=JohnPDuong&theme=radical">
 </a>
 
-<br />
-
 <a href="https://github.com/JohnPDuong/github-readme-stats">
     <img alt="Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPDuong&layout=compact&exclude_repo=A1-SQL-Queries-Generator">
 </a>
