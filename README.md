@@ -2,9 +2,9 @@
 
 ## I'm a Life-Long Student, Developer and Tutor!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love learning all sorts of things. Right now, I'm learning about how to setup an aquaponics system
+- ⚡ Fun fact: I love learning all sorts of things. Right now, I'm learning how to setup an aquaponics system
 
 ### Connect with me:
 
