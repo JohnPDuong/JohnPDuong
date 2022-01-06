@@ -49,13 +49,7 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JohnPDuong/github-readme-stats](https://github.com/JohnPDuong/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 📔 Created new repository [JohnPDuong/JohnPDuong](https://github.com/JohnPDuong/JohnPDuong)
-3. ✌️ Released [Initial Release](https://github.com/duon3457/InterstellarBot/releases/tag/v1.0) in [duon3457/InterstellarBot](https://github.com/duon3457/InterstellarBot)
-4. ⭐ Starred [duon3457/HealthRecords](https://github.com/duon3457/HealthRecords)
-5. ⭐ Starred [DamonHolland/RubiksRobot](https://github.com/DamonHolland/RubiksRobot)
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 [linkedin]: https://www.linkedin.com/in/john-duong-0bbb621b7/
