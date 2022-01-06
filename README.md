@@ -43,5 +43,6 @@
 </details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPDuong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPDuong)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/john-duong-0bbb621b7/
