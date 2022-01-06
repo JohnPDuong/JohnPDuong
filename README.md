@@ -35,18 +35,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-    <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JohnPDuong/github-readme-stats](https://github.com/JohnPDuong/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 📔 Created new repository [JohnPDuong/JohnPDuong](https://github.com/JohnPDuong/JohnPDuong)
-3. ✌️ Released [Initial Release](https://github.com/duon3457/InterstellarBot/releases/tag/v1.0) in [duon3457/InterstellarBot](https://github.com/duon3457/InterstellarBot)
-4. ⭐ Starred [duon3457/HealthRecords](https://github.com/duon3457/HealthRecords)
-5. ⭐ Starred [DamonHolland/RubiksRobot](https://github.com/DamonHolland/RubiksRobot)
-<!--RECENT_ACTIVITY:end-->
-    <!--RECENT_ACTIVITY:last_update_end-->
-</details>
-
 <div align="center">
     <a align="center" href="https://github.com/JohnPDuong/github-readme-stats">
         <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnPDuong&theme=radical">
@@ -58,5 +46,10 @@
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPDuong&layout=compact&exclude_repo=A1-SQL-Queries-Generator">
     </a>
 </div>
+
+<summary>:zap: Recent GitHub Activity</summary>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
 
 [linkedin]: https://www.linkedin.com/in/john-duong-0bbb621b7/
