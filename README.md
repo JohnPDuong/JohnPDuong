@@ -6,16 +6,16 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love learning all sorts of things. Right now, I'm learning how to setup an aquaponics system
 
+### Notable Ongoing Projects
+
+- 🏥 Health Records
+- 🤖 Rubik's Cube Solver Bot
+
 ### Connect with me:
 
 [<img align="left" alt="JohnPDuong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Notable Ongoing Projects
-
-- 🏥 Health Records
-- 🤖 Rubik's Cube Solver Bot
 
 ### Languages and Tools:
 
