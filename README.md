@@ -9,7 +9,7 @@
 ### Notable Ongoing Projects
 
 - 🏥 Health Records
-- <a src="https://github.com/DamonHolland/RubiksRobot">🤖 Rubik's Cube Solver Bot</a>
+- <a href="https://github.com/DamonHolland/RubiksRobot">🤖 Rubik's Cube Solver Bot</a>
 
 ### Connect with me:
 
