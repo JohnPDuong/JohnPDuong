@@ -54,10 +54,10 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JohnPDuong/JohnPDuong.github.io](https://github.com/JohnPDuong/JohnPDuong.github.io)
-2. 🔱 Forked [JohnPDuong/github-readme-stats](https://github.com/JohnPDuong/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 📔 Created new repository [JohnPDuong/JohnPDuong](https://github.com/JohnPDuong/JohnPDuong)
-4. ✌️ Released [Initial Release](https://github.com/duon3457/InterstellarBot/releases/tag/v1.0) in [duon3457/InterstellarBot](https://github.com/duon3457/InterstellarBot)
+1. 📔 Created new repository [JohnPDuong/TypingSpeedEval](https://github.com/JohnPDuong/TypingSpeedEval)
+2. 📔 Created new repository [JohnPDuong/JohnPDuong.github.io](https://github.com/JohnPDuong/JohnPDuong.github.io)
+3. 🔱 Forked [JohnPDuong/github-readme-stats](https://github.com/JohnPDuong/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 📔 Created new repository [JohnPDuong/JohnPDuong](https://github.com/JohnPDuong/JohnPDuong)
 5. ⭐ Starred [duon3457/HealthRecords](https://github.com/duon3457/HealthRecords)
 <!--RECENT_ACTIVITY:end-->
 
